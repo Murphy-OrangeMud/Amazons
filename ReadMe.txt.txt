@@ -1,0 +1,3 @@
+AMAZONS_GUI_2 这里面是源代码
+build-AMAZONS_GUI_2-Desktop_Qt_5_12_0_MSVC2017_32bit-Release这里面是编译后的文件，那个platform文件夹不能删掉，要不然打不开。
+实验报告里面有程序框图的部分，然后那个部分就是程序框图的文件。
